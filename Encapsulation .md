@@ -1,4 +1,4 @@
-<img width="1136" height="343" alt="Screenshot 2025-12-26 203431" src="https://github.com/user-attachments/assets/3b3ae3d5-4ea7-4d5c-8434-583a05646d44" /># 🐍 Python OOP: Encapsulation with Private Members
+
 
 ## 🎯 AIM
 
